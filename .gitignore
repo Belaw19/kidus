@@ -1,6 +1,0 @@
-build/
-.dart_tool/
-.packages
-.pub/
-ios/Pods/
-android/.gradle/
